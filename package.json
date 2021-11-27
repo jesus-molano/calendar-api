@@ -11,6 +11,7 @@
 	"author": "Jesus Molano",
 	"license": "ISC",
 	"devDependencies": {
+		"eslint": "^8.3.0",
 		"nodemon": "^2.0.14"
 	},
 	"dependencies": {
